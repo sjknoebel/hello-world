@@ -1,2 +1,2 @@
 # hello-world
-Inaugural github repositotory
+Inaugural github repository
